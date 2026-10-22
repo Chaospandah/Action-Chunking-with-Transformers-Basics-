@@ -1,8 +1,9 @@
 # Action-Chunking-with-Transformers-Basics-
-Built a very basic version of ACT 
 
 
 ## Overview
+
+Built a very basic version of ACT 
 
 This is my first time working with transformer architecture and more specifically with ACT.
 
